@@ -8,7 +8,8 @@ public class Exercicio03 {
 		// TODO Auto-generated method stub
 		
 			         
-	        //EXERCÍCIO 03
+	        //EXERCï¿½CIO 03
+			// Exercicio tempo do arquivo
 
 	        Scanner leia = new Scanner(System.in);
 	        
@@ -21,9 +22,9 @@ public class Exercicio03 {
 	        minutos = ((segundos%3600)/60);
 	        segundos =((segundos%3600)%60);
 	        
-	        System.out.println("A duração do evento foi de: " + horas + " horas");
-	        System.out.println("A duração do evento foi de: " + minutos + " minutos");
-	        System.out.println("A duração do evento foi de: " + segundos + " segundos");
+	        System.out.println("A duraï¿½ï¿½o do evento foi de: " + horas + " horas");
+	        System.out.println("A duraï¿½ï¿½o do evento foi de: " + minutos + " minutos");
+	        System.out.println("A duraï¿½ï¿½o do evento foi de: " + segundos + " segundos");
 
 	    
 
