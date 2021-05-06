@@ -9,7 +9,7 @@ public class Exercicio03 {
 		
 			         
 	        //EXERC�CIO 03
-			// Exercicio tempo
+			// Exercicio tempo do arquivo
 
 	        Scanner leia = new Scanner(System.in);
 	        
